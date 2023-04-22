@@ -1,5 +1,5 @@
 #include <iostream>
-//Freidy Carlos || Proyectoo
+//Freidy Carlos || Proyectoo Probando pozole worworwor
 using namespace std;
 int posicionTriquiEnX, posicionTriquiEnY, y, u;
 char matrizTriqui[3][3], nombrePrimerJugador[20], nombreSegundoJugador[20], simboloPrimerJugador, simboloSegundoJugador;
